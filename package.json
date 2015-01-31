@@ -1,0 +1,19 @@
+{
+  "name": "snapkite-filters",
+  "version": "0.1.0",
+  "description": "Filters for Snapkite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedosejev/snapkite-filters.git"
+  },
+  "author": "Artemij Fedosejev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fedosejev/snapkite-filters/issues"
+  },
+  "homepage": "https://github.com/fedosejev/snapkite-filters"
+}
