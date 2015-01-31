@@ -7,6 +7,6 @@ Filters for [Snapkite](https://github.com/fedosejev/snapkite).
 1. Get all filters: `git clone https://github.com/fedosejev/snapkite-filters.git`
 2. Require individual filters in Node/Browserify: `var filterName = require('./snapkite-filters/filter-name/');`
 
-# License
+## License
 
 Released under the MIT license.
